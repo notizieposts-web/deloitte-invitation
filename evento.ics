@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Invito//Salario che vale//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:salario-che-vale-20261113@bari
+DTSTAMP:20261104T120000Z
+DTSTART:20261113T150000Z
+DTEND:20261113T170000Z
+SUMMARY:Il salario che si vede\, il salario che vale
+DESCRIPTION:Trasparenza retributiva\, parità e potere d'acquisto: la responsabilità del management.\n\nRegistrazione obbligatoria: https://forms.cloud.microsoft/pages/responsepage.aspx?id=BLBpMBdQG1MpvIfk1MIG7pUQURaQVIyWlVTTUhaVFRWTk5MVzA4NzM4RS4u&route=shorturl
+LOCATION:Deloitte Forum\, Via Paolo Pinto 2\, Bari
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Domani: Il salario che vale - Deloitte Forum Bari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Tra un'ora: Il salario che vale - Deloitte Forum Bari
+END:VALARM
+END:VEVENT
+END:VCALENDAR
